@@ -1,0 +1,28 @@
+2021-03-20 08:47:49,261 - collect_real_time_data.py[line:173] - INFO: start in function update_pages_with_url 
+2021-03-20 08:47:50,954 - collect_real_time_data.py[line:197] - INFO: after collecting all companies the size is 3895
+2021-03-20 08:47:50,955 - collect_real_time_data.py[line:266] - INFO: we only collect latest trading day 
+2021-03-20 08:48:30,885 - collect_real_time_data.py[line:173] - INFO: start in function update_pages_with_url 
+2021-03-20 08:48:32,686 - collect_real_time_data.py[line:197] - INFO: after collecting all companies the size is 3895
+2021-03-20 08:48:32,687 - collect_real_time_data.py[line:266] - INFO: we only collect latest trading day 
+2021-03-20 08:49:42,235 - collect_real_time_data.py[line:173] - INFO: start in function update_pages_with_url 
+2021-03-20 08:49:44,366 - collect_real_time_data.py[line:197] - INFO: after collecting all companies the size is 3895
+2021-03-20 08:49:44,366 - collect_real_time_data.py[line:266] - INFO: we only collect latest trading day 
+2021-03-20 08:50:59,103 - collect_real_time_data.py[line:173] - INFO: start in function update_pages_with_url 
+2021-03-20 08:51:00,612 - collect_real_time_data.py[line:197] - INFO: after collecting all companies the size is 3895
+2021-03-20 08:51:00,612 - collect_real_time_data.py[line:266] - INFO: we only collect latest trading day 
+2021-03-20 08:51:57,101 - collect_real_time_data.py[line:173] - INFO: start in function update_pages_with_url 
+2021-03-20 08:51:58,624 - collect_real_time_data.py[line:197] - INFO: after collecting all companies the size is 3895
+2021-03-20 08:51:58,624 - collect_real_time_data.py[line:266] - INFO: we only collect latest trading day 
+2021-03-20 08:52:38,533 - collect_real_time_data.py[line:173] - INFO: start in function update_pages_with_url 
+2021-03-20 08:52:39,882 - collect_real_time_data.py[line:197] - INFO: after collecting all companies the size is 3895
+2021-03-20 08:52:39,882 - collect_real_time_data.py[line:266] - INFO: we only collect latest trading day 
+2021-03-20 09:02:48,192 - collect_real_time_data.py[line:173] - INFO: start in function update_pages_with_url 
+2021-03-20 09:02:49,794 - collect_real_time_data.py[line:197] - INFO: after collecting all companies the size is 3895
+2021-03-20 09:02:49,794 - collect_real_time_data.py[line:266] - INFO: we only collect latest trading day 
+2021-03-20 09:05:45,325 - collect_real_time_data.py[line:173] - INFO: start in function update_pages_with_url 
+2021-03-20 09:05:47,058 - collect_real_time_data.py[line:197] - INFO: after collecting all companies the size is 3895
+2021-03-20 09:05:47,059 - collect_real_time_data.py[line:266] - INFO: we only collect latest trading day 
+2021-03-20 09:20:38,404 - collect_real_time_data.py[line:173] - INFO: start in function update_pages_with_url 
+2021-03-20 09:20:40,092 - collect_real_time_data.py[line:197] - INFO: after collecting all companies the size is 3895
+2021-03-20 09:20:40,093 - collect_real_time_data.py[line:266] - INFO: we only collect latest trading day 
+2021-03-20 09:20:41,577 - collect_real_time_data.py[line:317] - INFO: collect company sh600000 real time data
